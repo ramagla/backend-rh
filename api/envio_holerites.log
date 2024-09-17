@@ -1,0 +1,19 @@
+2024-09-13 15:44:33,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.2:5000
+2024-09-13 15:44:33,621 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-13 15:44:33,621 - INFO -  * Restarting with stat
+2024-09-13 15:44:35,125 - WARNING -  * Debugger is active!
+2024-09-13 15:44:35,130 - INFO -  * Debugger PIN: 516-775-915
+2024-09-13 15:44:51,323 - INFO - 127.0.0.1 - - [13/Sep/2024 15:44:51] "[33mOPTIONS /api/login HTTP/1.1[0m" 404 -
+2024-09-13 15:44:59,037 - INFO - 127.0.0.1 - - [13/Sep/2024 15:44:59] "[33mOPTIONS /api/login HTTP/1.1[0m" 404 -
+2024-09-13 15:46:43,951 - INFO -  * Detected change in 'C:\\Users\\rafael.almeida\\Desktop\\Sistema RH\\sistema-rh\\backend\\api\\main.py', reloading
+2024-09-13 15:46:44,128 - INFO -  * Restarting with stat
+2024-09-13 15:51:18,369 - INFO -  * Restarting with stat
+2024-09-13 15:52:33,751 - INFO -  * Restarting with stat
+2024-09-13 15:54:22,963 - INFO -  * Restarting with stat
+2024-09-13 15:54:28,174 - INFO -  * Restarting with stat
+2024-09-13 15:56:37,332 - INFO -  * Restarting with stat
+2024-09-13 15:58:11,627 - INFO -  * Restarting with stat
+2024-09-13 15:58:50,065 - INFO -  * Restarting with stat
